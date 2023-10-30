@@ -1,0 +1,14 @@
+I:\Laborator\lab_5\lab_5\bin\Debug\net6.0\lab_5.exe
+I:\Laborator\lab_5\lab_5\bin\Debug\net6.0\lab_5.deps.json
+I:\Laborator\lab_5\lab_5\bin\Debug\net6.0\lab_5.runtimeconfig.json
+I:\Laborator\lab_5\lab_5\bin\Debug\net6.0\lab_5.dll
+I:\Laborator\lab_5\lab_5\bin\Debug\net6.0\lab_5.pdb
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.GeneratedMSBuildEditorConfig.editorconfig
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.AssemblyInfoInputs.cache
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.AssemblyInfo.cs
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.csproj.CoreCompileInputs.cache
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.dll
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\refint\lab_5.dll
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.pdb
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\lab_5.genruntimeconfig.cache
+I:\Laborator\lab_5\lab_5\obj\Debug\net6.0\ref\lab_5.dll
