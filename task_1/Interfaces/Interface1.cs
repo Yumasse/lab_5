@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task_1
+namespace Task_4.Interfaces
 {
-    internal class Class1
+    internal interface Interface1
     {
     }
 }

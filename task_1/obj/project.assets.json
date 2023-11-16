@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Laborator\\lab_5\\task_1\\Task_3.csproj",
-      "projectName": "Task_3",
-      "projectPath": "I:\\Laborator\\lab_5\\task_1\\Task_3.csproj",
+      "projectUniqueName": "I:\\Laborator\\lab_5\\task_1\\Task_4.csproj",
+      "projectName": "Task_4",
+      "projectPath": "I:\\Laborator\\lab_5\\task_1\\Task_4.csproj",
       "packagesPath": "C:\\Users\\Yuliash\\.nuget\\packages\\",
       "outputPath": "I:\\Laborator\\lab_5\\task_1\\obj\\",
       "projectStyle": "PackageReference",

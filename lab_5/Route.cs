@@ -8,13 +8,14 @@ namespace Task_1
 {
     public class Route
     {
-        public int Start { get; }
-        public int End { get; }
+        public string StartPoint { get; set; }
+        public string EndPoint { get; set; }
 
-        public Route(int start, int end)
+        public Route(string startPoint, string endPoint)
         {
-            Start = start;
-            End = end;
+            StartPoint = startPoint;
+            EndPoint = endPoint;
         }
     }
 }
+

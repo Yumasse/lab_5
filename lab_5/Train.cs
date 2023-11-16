@@ -8,13 +8,9 @@ namespace Task_1
 {
     public class Train : Vehicle
     {
-        public Train(int speed) : base(speed, 200)
-        {
-        }
-
         public override void Move()
         {
-            Console.WriteLine($"Train is moving at a speed of {Speed} km/h");
+            Console.WriteLine("Train is moving.");
         }
     }
 }

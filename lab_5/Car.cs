@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace Task_1
 {
-    public class Human : Vehicle
+    public class Car : Vehicle
     {
-        public Human(int speed) : base(speed, 1)
-        {
-        }
-
         public override void Move()
         {
-            Console.WriteLine($"Human is moving at a speed of {Speed} km/h");
+            Console.WriteLine("Car is moving.");
         }
     }
 }
+

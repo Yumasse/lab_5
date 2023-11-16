@@ -15,28 +15,11 @@ namespace Task_1
             vehicles.Add(vehicle);
         }
 
-        public (Vehicle, double) CalculateOptimalRoute(Route route)
+        public void ControlMovement()
         {
-            Vehicle optimalVehicle = null;
-            double minTime = double.PositiveInfinity;
-
             foreach (var vehicle in vehicles)
             {
-                double time = (route.End - route.Start) / (double)vehicle.Speed;
-                if (time < minTime && vehicle.Capacity > 0)
-                {
-                    optimalVehicle = vehicle;
-                    minTime = time;
-                }
-            }
-
-            if (optimalVehicle != null)
-            {
-                return (optimalVehicle, minTime);
-            }
-            else
-            {
-                return (null, 0);
+                vehicle.Move();
             }
         }
     }

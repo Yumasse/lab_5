@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Task_1
 {
-    internal class Human
+    public class Human
     {
+        public int Speed { get; set; }
+
+        public void Move()
+        {
+            Console.WriteLine("Human is moving.");
+        }
     }
 }

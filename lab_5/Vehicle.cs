@@ -8,16 +8,10 @@ namespace Task_1
 {
     public abstract class Vehicle
     {
-        //властивості
-        public int Speed { get; }
-        public int Capacity { get; }
+        public int Speed { get; set; }
+        public int Capacity { get; set; }
 
-        public Vehicle(int speed, int capacity)
-        {
-            Speed = speed;
-            Capacity = capacity;
-        }
-        //метод
         public abstract void Move();
     }
 }
+
